@@ -139,7 +139,7 @@ p {
 }
 .navbar-brand em {
 	font-style: normal;
-	color: #f7c552;
+	color: darkblue;
 	font-size: 32px;
 }
 .header.active .navbar-brand {
@@ -161,11 +161,11 @@ p {
 }
 .navbar-inverse .navbar-toggle {
 	margin-top: 22px;
-    border-color: #f7c552;
-    background-color: #f7c552;
+    border-color: darkblue;
+    background-color: darkblue;
 }
 .navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
-	background-color: #f7c552;
+	background-color: darkblue;
 }
 bootstrap.min.css:5
 .navbar-toggle {
@@ -227,7 +227,7 @@ bootstrap.min.css:5
 
 .baner-content .text-content h2 span {
 	font-weight: 700;
-	color: #33c1cf!important;
+	color: white!important;
 }
 
 .baner-content .text-content h2 em {
@@ -268,7 +268,7 @@ bootstrap.min.css:5
 	line-height: 104px;
 	border: 3px solid #fff;
 	border-radius: 50%;
-	background-color: #f7c552;
+	background-color: skyblue;
 }
 
 #about .service-item h4 {
@@ -324,7 +324,7 @@ bootstrap.min.css:5
 }
 
 .filter-categories ul li.active span {
-  color: #f7c552;
+  color: darkblue;
 }
 
 #portoflio .page-section {
@@ -367,7 +367,7 @@ bootstrap.min.css:5
 
 
 #testimonial {
-	background-color: #f7c552;
+	background-color: skyblue;
 	text-align: center;
 	padding: 100px 0px;
 }
@@ -659,7 +659,7 @@ footer {
 footer .logo em {
 	font-style: normal;
 	font-size: 28px;
-	color: #f7c552;
+	color: skyblue;
 }
 footer .logo-ft {
 	display: inline-block;
